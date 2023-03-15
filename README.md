@@ -7,6 +7,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=ffffff)
 ![illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=ffffff)
 ![xd](https://img.shields.io/badge/-XD-FF61F6?style=flat&logo=adobexd&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-FF61F6?style=flat&logo=Figma&logoColor=ffffff)
 
 ![html3](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
